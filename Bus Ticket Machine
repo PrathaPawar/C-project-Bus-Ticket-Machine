@@ -1,8 +1,8 @@
-# BUS TICKET MACHINE 
+#BUS TICKET MACHINE 
 
 This is simple bus ticket machine which provide tickets to passenger.
 
-# 🛠Features
+#🛠Features
 ▫️Shows proper destination from ___ to ___
 
 ▫️ Differnciate male and female ticket amount.
@@ -11,14 +11,14 @@ This is simple bus ticket machine which provide tickets to passenger.
 
 ▫️Print Amount for single passenger.
 
-# 📌Functional Flow
+#📌Functional Flow
 ▫️Enter Destination
 
 ▫️Enter Gender
 
 ▫️Enter Age
 
-# 🔍USES
+#🔍USES
 ▫️Make work eaiser of the conductor.
 
 ▫️Security enhance (proof)
